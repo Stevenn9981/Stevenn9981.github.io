@@ -1,0 +1,159 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <meta name="google-site-verification" content="google58481c31dabdda94.html">
+    <link rel="stylesheet" href="css/page.css" type="text/css" />
+    <meta name="description"
+        content="This is Wentao Ning's home page, He is a PhD candidate under HKU-SUSTech Joint PhD Programme, supervised by Prof. Reynold Cheng and Prof. Bo Tang.">
+    <meta name="keywords" content="Wentao Ning, HKU, SUSTech, PhD, CS, ">
+    <meta name="author" content="Wentao Ning">
+    <title>Wentao Ning's Home Page</title>
+</head>
+
+<body>
+    <center>
+        <div id="layout-content">
+            <div id="toptitle">
+                Wentao Ning (宁文韬)
+            </div>
+            <table style="width: 100%;" class="imgtable">
+                <tr>
+                    <td style="width: 60%;">
+                        <p><b>
+                                <font face="Arial" size="4">Ph.D. Candidate</font>
+                            </b></p> <br />
+                        <p><a href="https://www.cs.hku.hk">Department of Computer Science</a><br />
+                            <a href="https://www.hku.hk">The University of Hong Kong</a><br />
+                            Pokfulam Road, Hong Kong<br /><br />
+
+                            <a href="http://cse.sustech.edu.cn/en/">Department of Computer Science and Engineering</a><br />
+                            <a href="http://www.sustech.edu.cn/en/">Southern University of Science and Technology</a><br />
+                            Shenzhen, China<br /><br />
+
+                            Email: wtning@cs.hku.hk<br />
+                        </p>
+                        <p>
+                            <a href="https://scholar.google.com/citations?user=iPrjwMkAAAAJ&hl=en" target="_blank">
+                                <img class="icon" src="fig/scholar_logo.jpg" alt="github" title="Google Scholar"
+                                    height="24" width="24"></a>
+                            <a href="https://github.com/Stevenn9981" target="_blank">
+                                <img class="icon" src="fig/github_logo.jpg" alt="github" title="github" height="24"
+                                    width="24"></a>
+                            <a href="https://www.linkedin.com/in/wentao-ning/?locale=en_US"
+                                target="_blank">
+                                <img class="icon" src="fig/linkedin_logo.png" alt="linkedin" title="linkedin"
+                                    height="24" width="24"></a>
+                        </p>
+                    </td>
+                    <td style="width: 40%;">
+                        <img align="right" src="fig/wentao.jpg" alt="Wentao Ning" width="200px" height="200px" />&nbsp;
+                    </td>
+                </tr>
+            </table>
+            <h1><b>About me</b></h1>
+            <p>My name is Wentao Ning. I am a PhD candidate in the Department of Computer Science, The University of Hong
+                Kong
+                (<a href="https://www.hku.hk/">HKU</a>)  from Sep. 2020  under <a
+                    href="https://www.gradsch.hku.hk/gradsch/programmes/joint-phd-degree/joint-educational-programme-for-phd-sustc">HKU-SUSTech
+                    Joint PhD Programme</a>, supervised by Prof. <a href="https://i.cs.hku.hk/~ckcheng/"> Reynold
+                    Cheng</a>
+                (HKU) and Prof. <a href="https://acm.sustech.edu.cn/btang/"> Bo Tang </a>(SUSTech).
+                </p>
+            <p>I received my BEng degree from the Department of Computer Science and
+                Engineering, Southern University of Science and Technology (<a
+                    href="https://www.sustech.edu.cn">SUSTech</a>) in July, 2020. </p>
+            <p>My research mainly focuses on the area of data mining and machine learning, especially recommender systems and graph neural network (GNN).</p>
+
+            <h1><b>Publications</b></h1>
+            <ul>
+                <li>
+                    <p><b style="color: blue;">The Social Technology and Research (STAR) Lab in the University of Hong Kong.</b><br />
+                        Reynold Cheng, Chenhao Ma, Xiaodong Li, Yixiang Fang, Ye Liu, Victor Y.L. Wong, Esther Lee, Tai Hing Lam, Sai Yin Ho, Man Ping Wang, Weijie Gong, <b>Wentao Ning</b>, Ben Kao<br />
+                        <i>ACM SIGMOD Record, 2022.</i>
+                        [<a href="#">pdf</a>]<br />
+                    </p>
+                </li>
+                <li>
+                    <p><b style="color: blue;">Towards Efficient MaxBRNN Computation for Streaming Updates.</b><br />
+                        <b>Wentao Ning</b>, Xiao Yan, Bo Tang<br />
+                        <i>In 37th IEEE International Conference on Data Engineering (ICDE, <b>CCF-A</b>), Greece, 2021.</i>
+                        [<a href="https://ieeexplore.ieee.org/document/9458861">pdf</a>]<br />
+                    </p>
+                </li>
+                <li>
+                    <p><b style="color: blue;">CheetahVIS: A Visual Analytical System for Large Urban Bus
+                            Data.</b><br />
+                        <b>Wentao Ning</b>, Qiandong Tang, Yi Zhao, Chuan Yang, Xiaofeng Wang, Teng Wang, Haotian
+                        Liu, Chaozu Zhang, Zhiyuan Zhou, Qiaomu Shen, Bo Tang <br />
+                        <i>In 46th International Conference on Very Large Data Bases (PVLDB demo, <b>CCF-A</b>), August, 2020.</i>
+                        [<a href="http://www.vldb.org/pvldb/vol13/p2805-ning.pdf">pdf</a>]<br />
+                    </p>
+                </li>
+            </ul>
+
+            <h1>Internship</h1>
+            <ul>
+                <li>
+                    <p>Research Intern in <a href="http://www.tclrd.com.hk/">TCL Research HK</a>
+                        (Hong Kong, Jun - Aug, 2021)</p>
+                </li>
+                <li>
+                    <p>Software Engineer in <a href="https://www.huawei.com/en/about-huawei">Huawei Technologies</a>
+                        (Dongguan, Jul - Aug, 2019)</p>
+                </li>
+            </ul>
+
+            <h1><b>Teaching Experience</b></h1>
+            <ul>
+<li>
+    <p><b>CCST9047</b> The Age of Big Data (Spring 2021, HKU) </p>
+
+</li>
+                <li>
+                    <p><b>CS302 </b> Operating System (Spring 2020, SUSTech) </p>
+                </li>
+                <li>
+                    <p><b>CS309 </b> </CS309>Object Oriented Analysis and Design (Fall 2019, SUSTech)</p>
+                </li>
+                <li>
+                    <p><b>CS203B </b> Data Structure and Algorithm Analysis (B) (Fall 2018, SUSTech)</p>
+                </li>
+            </ul>
+
+            <h1>Awards</h1>
+            <ul>
+                <li>
+                    <p>Postgraduate Scholarship, SUSTech & HKU, 2020-2024</p>
+                </li>
+                <li>
+                    <p>Outstanding Graduate, CSE department & Shuli College at SUSTech, 2020</p>
+                </li>
+                <li>
+                    <p>Outstanding UG Teaching Assistant, CSE department, SUSTech, 2019</p>
+                </li>
+                <li>
+                    <p>Outstanding Students Scholarship, SUSTech, 2017 - 2019</p>
+                </li>
+                <li>
+                    <p>Outstanding Freshmen Scholarship, SUSTech, 2016</p>
+                </li>
+            </ul>
+            <br />
+            <br />
+            <center>
+                <div style="width: 25%;">
+                    <script type="text/javascript" id="clstr_globe"
+                        src="https://clustrmaps.com/globe.js?d=3XX6lUtIkC3KSkl5K87IwJokwOsTYc99wKDrnkufZkQ"></script>
+                </div>
+                <a href="https://www.easycounter.com/">
+                    <img src="https://www.easycounter.com/counter.php?wentao" border="0" alt="Free Web Counters"></a>
+                <a href="https://www.easycounter.com/"> visitors viewed this page</a>
+
+            </center>
+        </div>
+    </center>
+</body>
+
+</html>
